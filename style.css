@@ -1,0 +1,10 @@
+body{
+    background-color: darkviolet;
+    color: azure;
+    text-align: center;
+}
+
+input{
+    width: 200px;
+    border-radius: 10px;
+}
